@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c881a10f-e23b-49b2-b7d3-287a523fdee9" name="Default" comment="">
+    <list default="true" id="c881a10f-e23b-49b2-b7d3-287a523fdee9" name="Default" comment="mm">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jj/.idea/vcs.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ffff/.idea/compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ffff/.idea/dataSources.local.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ffff/.idea/dataSources.xml" afterPath="" />
@@ -11,6 +13,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ffff/.idea/workspace.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ffff/ffff.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ffff/pom.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jj/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../jj/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../jj/out/" />
     <ignored path="$PROJECT_DIR$/../jj/target/" />
@@ -26,8 +29,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../jj/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -200,12 +203,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511703726569</updated>
-      <workItem from="1511703728096" duration="86000" />
+      <workItem from="1511703728096" duration="731000" />
     </task>
+    <task id="LOCAL-00001" summary="mm">
+      <created>1511703830675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511703830675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86000" />
+    <option name="totallyTimeSpent" value="731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="25" width="1346" height="701" extended-state="0" />
@@ -244,6 +255,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mm" />
+    <option name="LAST_COMMIT_MESSAGE" value="mm" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -251,8 +266,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../jj/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
