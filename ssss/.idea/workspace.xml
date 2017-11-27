@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1fd6e684-0d76-4b79-88b8-d6ac4a37e12a" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../oo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssss/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssss/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssss/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssss/ssss.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssss/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssss/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ttt/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ttt/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ttt/pom.xml" />
@@ -29,8 +27,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oo/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../oo/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../oo/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ssss/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ssss/.idea/workspace.xml" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/../oo/.idea/modules.xml" afterPath="$PROJECT_DIR$/../ttt/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../oo/pom.xml" afterPath="$PROJECT_DIR$/../ssss/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../ssss/out/" />
     <ignored path="$PROJECT_DIR$/../ssss/target/" />
@@ -220,12 +218,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511744816300</updated>
-      <workItem from="1511744817829" duration="102000" />
+      <workItem from="1511744817829" duration="220000" />
     </task>
+    <task id="LOCAL-00001" summary="zzzzz">
+      <created>1511744944901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511744944901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102000" />
+    <option name="totallyTimeSpent" value="220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="25" width="1346" height="701" extended-state="0" />
@@ -263,6 +269,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zzzzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="zzzzz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
